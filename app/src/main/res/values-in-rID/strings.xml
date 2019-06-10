@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DIPLO</string>
+    <string name="log_in">Masuk</string>
+    <string name="sign_up">Daftar kuy!</string>
+    <string name="password">Tulis passwordmu disinni</string>
+    <string name="akun">Ga punya akun? Daftar kuy!</string>
+    <string name="email">emailkamu@contoh.com</string>
+    <string name="re_password">Ketik ulang password</string>
+    <string name="title">Judul</string>
+    <string name="note">Catatanku</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "886843035187",
+    "firebase_url": "https://diplo-4bc5b.firebaseio.com",
+    "project_id": "diplo-4bc5b",
+    "storage_bucket": "diplo-4bc5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886843035187:android:64295bdcc1065e2e",
+        "android_client_info": {
+          "package_name": "com.example.acer.diplo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886843035187-jf61ebtadnvg7uf0sqtpqv71114s7okb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.acer.diplo",
+            "certificate_hash": "0adcb1abbfd275e46aadb55af4366bd3e9d70725"
+          }
+        },
+        {
+          "client_id": "886843035187-0vu83c2mf13bhiea2mko4biceg48lcrb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQOqsWGUyIwnB0sPs0gypIePGrVSxwEAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886843035187-0vu83c2mf13bhiea2mko4biceg48lcrb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
